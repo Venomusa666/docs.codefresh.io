@@ -6,7 +6,7 @@ gem 'jekyll-admin', group: :jekyll_plugins
 
 group :development, :test do
   gem 'jekyll', '~> 3.8.4'
-  gem 'jekyll-redirect-from', '~> 0.14.0'
+  gem 'jekyll-redirect-from', '~> 0.16.0'
   gem 'jekyll-sitemap', '~> 1.2.0'
   gem 'jekyll-feed', '~> 0.11.0'
   gem 'jekyll-github-metadata', '~> 2.9.4'
